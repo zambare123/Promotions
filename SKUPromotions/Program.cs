@@ -10,6 +10,7 @@ namespace SKUPromotions
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
